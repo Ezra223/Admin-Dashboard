@@ -1,0 +1,10 @@
+{
+  "/page": "app/page.js",
+  "/fleet/page": "app/fleet/page.js",
+  "/login/page": "app/login/page.js",
+  "/trips/page": "app/trips/page.js",
+  "/users/page": "app/users/page.js",
+  "/role-requests/page": "app/role-requests/page.js",
+  "/analytics/page": "app/analytics/page.js",
+  "/routes/page": "app/routes/page.js"
+}
